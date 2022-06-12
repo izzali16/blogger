@@ -1,0 +1,2 @@
+- name: Lint k8s manifest files
+  uses: Azure/k8s-lint@v1

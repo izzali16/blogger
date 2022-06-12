@@ -1,0 +1,39 @@
+{
+    "name": "Web5abhijit | Increase your knowledge only from this blog.",
+    "short_name": "Web5abhijit",
+    "description": "Learn a lot just from this Web5abhijit blog | Learn easily Technology , Healthy tips , Nature , Travel , Cook Much more from this Hand blog .",
+    "gcm_sender_id": "490169433231",
+    "gcm_user_visible_only": true,
+    "status":"ok",
+    "start_url":"/?",
+    "prompt_message":"Add a Home screen icon for easy access to Web5abhijit",
+    "icons": [{
+    "src": "https://1.bp.blogspot.com/-pkOlV61FlBs/YA1JTk1T5EI/AAAAAAAAAlg/N4L7A5Gh77EedGThITiGs04dYYC3hv-SQCLcBGAsYHQ/s0/circle-cropped_4_48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dCgcTwRvNbU/YA1IsaiwGJI/AAAAAAAAAlI/pmdm2DGwIuADy75oPI5x1K5piRI4FSHoQCLcBGAsYHQ/s0/circle-cropped_1_72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tR4sOktcmL0/YA1Ism5RFuI/AAAAAAAAAlM/dxBOLrlToIctmVApxokw2Xrd7qALgk2HwCLcBGAsYHQ/s0/circle-cropped_2_96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-N_1NRuHKl6Y/YA1NWN3C6yI/AAAAAAAAAls/6w66-sEN1z0AcrYqWUNJjdEA4AAr2jqzACLcBGAsYHQ/s0/circle-cropped_6_144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ost2Pgs37TI/YA1NWInshvI/AAAAAAAAAlw/PERdMBlj0ZAE82CwCu4rkRS6o2BcY9RlQCLcBGAsYHQ/s0/circle-cropped_7_168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-AlblUwsogMI/YA0qDnyOLHI/AAAAAAAAAko/m9und8C7JwkfPSsR-aXQ8fLULDEiX5KTQCLcBGAsYHQ/s0/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+    "orientation": "portrait",
+}
